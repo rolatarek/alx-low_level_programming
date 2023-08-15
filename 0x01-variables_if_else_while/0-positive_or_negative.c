@@ -6,7 +6,8 @@
  *
  * Description: Determine if a random number is positive, negative or zero.
  *
- * Return: Always 0 on success
+ * Return:0 on (success)
+ *
  */
 int main(void)
 {
