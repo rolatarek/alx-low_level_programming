@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * _strpbrk - A function that searches a string for any of a set of bytes.
  * @s: The string
  * @accept: string to match
